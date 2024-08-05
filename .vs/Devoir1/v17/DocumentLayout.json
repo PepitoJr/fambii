@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|c:\\users\\fotio\\desktop\\devoirs\\devoir1\\devoir1\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|solutionrelative:devoir1\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\devoir1\\plat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|solutionrelative:devoir1\\plat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\devoir1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|solutionrelative:devoir1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\devoir1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|solutionrelative:devoir1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\devoir1\\serveur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|solutionrelative:devoir1\\serveur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\devoir1\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C46D52F-B86E-493A-B54C-6D8544094322}|Devoir1\\Devoir1.csproj|solutionrelative:devoir1\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Commande.cs",
+              "RelativeDocumentMoniker": "Devoir1\\Commande.cs",
+              "ToolTip": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Commande.cs",
+              "RelativeToolTip": "Devoir1\\Commande.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:03:32.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plat.cs",
+              "DocumentMoniker": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Plat.cs",
+              "RelativeDocumentMoniker": "Devoir1\\Plat.cs",
+              "ToolTip": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Plat.cs",
+              "RelativeToolTip": "Devoir1\\Plat.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:03:27.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Program.cs",
+              "RelativeDocumentMoniker": "Devoir1\\Program.cs",
+              "ToolTip": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Program.cs",
+              "RelativeToolTip": "Devoir1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:03:24.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Devoir1\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Restaurant.cs",
+              "RelativeToolTip": "Devoir1\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:03:22.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Serveur.cs",
+              "DocumentMoniker": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Serveur.cs",
+              "RelativeDocumentMoniker": "Devoir1\\Serveur.cs",
+              "ToolTip": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Serveur.cs",
+              "RelativeToolTip": "Devoir1\\Serveur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:03:15.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Table.cs",
+              "RelativeDocumentMoniker": "Devoir1\\Table.cs",
+              "ToolTip": "C:\\Users\\fotio\\Desktop\\devoirs\\devoir1\\Devoir1\\Table.cs",
+              "RelativeToolTip": "Devoir1\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:03:08.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

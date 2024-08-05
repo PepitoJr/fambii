@@ -1,0 +1,7 @@
+C:\Users\fotio\source\repos\Devoir1\Devoir1\obj\Debug\Devoir1.csproj.AssemblyReference.cache
+C:\Users\fotio\source\repos\Devoir1\Devoir1\obj\Debug\Devoir1.csproj.CoreCompileInputs.cache
+C:\Users\fotio\source\repos\Devoir1\Devoir1\bin\Debug\Devoir1.exe.config
+C:\Users\fotio\source\repos\Devoir1\Devoir1\bin\Debug\Devoir1.exe
+C:\Users\fotio\source\repos\Devoir1\Devoir1\bin\Debug\Devoir1.pdb
+C:\Users\fotio\source\repos\Devoir1\Devoir1\obj\Debug\Devoir1.exe
+C:\Users\fotio\source\repos\Devoir1\Devoir1\obj\Debug\Devoir1.pdb
